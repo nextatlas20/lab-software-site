@@ -1,0 +1,14 @@
+title: "HAIL Open Software"
+description: "Public software catalogue of the Human-AI Interaction Lab"
+baseurl: ""
+url: "https://hail-lab.example.edu"
+collections:
+  software:
+    output: true
+    permalink: /software/:name/
+defaults:
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: software

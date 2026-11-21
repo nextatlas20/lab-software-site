@@ -1,0 +1,12 @@
+# Machine-readable index of public releases.
+# Newest release first; ties broken by project name.
+- name: TopicFlow
+  slug: topicflow
+  version: "2.1.0"
+  doi: "10.5281/zenodo.8421553"
+  released: 2023-11-08
+- name: OpenSurvey
+  slug: opensurvey
+  version: "1.4.2"
+  doi: "10.5281/zenodo.6612408"
+  released: 2022-06-03
